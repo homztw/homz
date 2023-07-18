@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:group-title="Radio",KFI 640 AM_California
+https://stream.revma.ihrhls.com/zc177/hls.m3u8?stationid=177
+#EXTINF:group-title="Radio",Fox News Talk
+https://streaming-ent.shoutcast.com/foxnews
+#EXTINF:group-title="Radio",CRN 1
+http://sc03.warpradio.com:8506/;stream.nsv
+#EXTINF:group-title="Radio",CRN 2
+http://player.warpradio.com/sc/CRN2-IN.m3u
+#EXTINF:group-title="Radio",CRN 3
+http://sc03.warpradio.com:8510/;stream.nsv
+#EXTINF:group-title="Radio",CRN 4
+http://64.78.234.165:8020/CRN4
+#EXTINF:group-title="Radio",CRN 5
+http://sc03.warpradio.com:8514/;stream.nsv
+#EXTINF:group-title="Radio",VOA Voice of America News
+http://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28
+#EXTINF:group-title="Radio",NPR Program Stream
+https://22113.live.streamtheworld.com/WUSFFM_ADP_SC
+#EXTINF:group-title="Radio",NPR Program Stream
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC_SC
+#EXTINF:group-title="Radio",BBC World Service
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF:group-title="Radio",BBC Radio 4
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm?
+#EXTINF:group-title="Radio",BBC Radio 4 LW
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_fourlw/format/pls.pls
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm?
+#EXTINF:group-title="Radio",BBC Radio 4 LW_Genre: Talk
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_fourlw/format/pls.pls
+#EXTINF:group-title="Radio",BBC Radio 4 Extra_Genre: Comedy
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra?
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_four_extra/format/pls.pls
+#EXTINF:group-title="Radio",BBC Radio 2_Genre: Various
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_two/format/pls.pls
+#EXTINF:group-title="Radio",BBC Radio 2_Genre: Various
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two?
+#EXTINF:group-title="Radio",100.7+ICRT
+https://icrt.leanstream.co/ICRTFM-MP3?args=web
+#EXTINF:group-title="Radio",100.7+ICRT
+http://live.leanstream.co/ICRTFM-MP3?
+#EXTINF:group-title="電台",104.1 正聲
+https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+#EXTINF:group-title="電台",104.9 警廣
+http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+#EXTINF:group-title="電台",102.5 幸福電台
+https://www.tr-radio.com/station/tr-radio/?play=1&m3u8=1
+#EXTINF:group-title="電台",102.5 幸福電台
+https://live.tr-radio.com/live/live/playlist.m3u8
+#EXTINF:group-title="電台",97.5 竹科廣播
+https://stream.rcs.revma.com/7mnq8rt7k5zuv
+#EXTINF:group-title="電台",輔大之聲FM88.5
+http://140.136.115.115:8000/fjuvoice885.mp3
+#EXTINF:group-title="電台",97. 7 Classical 古典音樂台
+http://59.120.88.155:8000/live.mp3
+#EXTINF:group-title="Classic",法國古典音樂
+http://players.creacast.com/creacast/classique/playlist.m3u
+#EXTINF:group-title="Classic",荷蘭愛樂Classic NLCLASSICFMAAC_SC
+http://playerservices.streamtheworld.com/pls/CLASSICFMAAC.pls
+#EXTINF:group-title="Classic",荷蘭愛樂Classic NLSchubert
+http://playerservices.streamtheworld.com/pls/CLASSICFM.pls
+#EXTINF:-1,大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1,民視新聞FTV
+https://www.youtube.com/watch?v=ylYJSBUgaMA&pp=ygUM5paw6IGe55u05pKt
+#EXTINF:-1,三立iNEWS
+https://www.youtube.com/watch?v=CKjSm5ZeehE
+#EXTINF:-1,三立+
+https://www.youtube.com/watch?v=oZdzzvxTfUY&pp=ygUM5paw6IGe55u05pKt
+#EXTINF:-1,台視新聞台
+https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1,華視新聞直播
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1,東森財經股市
+https://www.youtube.com/watch?v=LbS-xQ67fos
+#EXTINF:-1,東森新聞
+https://www.youtube.com/watch?v=khuZW5GdBXo&pp=ygUM5paw6IGe55u05pKt
+#EXTINF:-1,東森財經新聞
+https://www.youtube.com/watch?v=WHEPzbFA3hw&pp=ygUM5paw6IGe55u05pKt
+#EXTINF:-1,鏡新聞mnews
+https://www.youtube.com/watch?v=5n0y6b0Q25o&pp=ygUJbW5ld3Mg6Y-h
+#EXTINF:-1,寰宇新聞台
+https://www.youtube.com/watch?v=B7Zp3d6xXWw
+#EXTINF:-1,TVBS新聞
+https://www.youtube.com/watch?v=m_dhMSvUCIc&pp=ygUM5paw6IGe55u05pKt
+#EXTINF:-1,優視頻道UChanne
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1,智林體育台
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+#EXTINF:-1,公視台語台
+https://www.youtube.com/watch?v=6KlRR_DGhmI
+#EXTINF:-1,公共電視
+https://www.youtube.com/watch?v=4Uc00FPs27M
+#EXTINF:-1,大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1,民視新聞FTV
+https://www.youtube.com/watch?v=ylYJSBUgaMA&pp=ygUM5paw6IGe55u05pKt
+#EXTINF:-1,三立iNEWS
+https://www.youtube.com/watch?v=CKjSm5ZeehE
+#EXTINF:-1,三立+
+https://www.youtube.com/watch?v=oZdzzvxTfUY&pp=ygUM5paw6IGe55u05pKt
+#EXTINF:-1,台視新聞台
+https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1,華視新聞直播
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1,東森財經股市
+https://www.youtube.com/watch?v=LbS-xQ67fos
+#EXTINF:-1,東森新聞
+https://www.youtube.com/watch?v=khuZW5GdBXo&pp=ygUM5paw6IGe55u05pKt
+#EXTINF:-1,東森財經新聞
+https://www.youtube.com/watch?v=WHEPzbFA3hw&pp=ygUM5paw6IGe55u05pKt
+#EXTINF:-1,鏡新聞mnews
+https://www.youtube.com/watch?v=5n0y6b0Q25o&pp=ygUJbW5ld3Mg6Y-h
+#EXTINF:-1,寰宇新聞台
+https://www.youtube.com/watch?v=B7Zp3d6xXWw
+#EXTINF:-1,TVBS新聞
+https://www.youtube.com/watch?v=m_dhMSvUCIc&pp=ygUM5paw6IGe55u05pKt
+#EXTINF:-1,優視頻道UChanne
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1,智林體育台
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+#EXTINF:-1,公視台語台
+https://www.youtube.com/watch?v=6KlRR_DGhmI
+#EXTINF:-1,公共電視
+https://www.youtube.com/watch?v=4Uc00FPs27M
