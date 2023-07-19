@@ -1,83 +1,287 @@
 #EXTM3U
-#EXTINF:30,text="Spot Block End" amgTrackId="9876543"
-https://stream.revma.ihrhls.com/zc177/hls.m3u8?stationid=177
-#EXTINF:0,Fox News Talk
-https://streaming-ent.shoutcast.com/foxnews
-#EXTINF:0,CRN 1
+#EXTINF:-1,KFI 640 AM_California
+https://ample.revma.ihrhls.com/zc177/64_1t88gpifykbj802/playlist.m3u8
+#EXTINF:-1,Bloomberg
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-04-jZwxsD5tnuA_live.m3u8
+#EXTINF:-1,Bloomberg TV+720
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-04-jZwxsD5tnuA_live.m3u8
+#EXTINF:-1,Bloomberg TV+360
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-06-mOzAf8ZuNC8_live.m3u8
+#EXTINF:-1,FRANCE 24 English – LIVE – International Breaking News & Top stories - 24/7 stream
+https://www.youtube.com/watch?v=h3MuIUNCCzI
+#EXTINF:-1,Channels Television - Live Stream
+https://www.youtube.com/watch?v=dfB0qmJo1eM
+#EXTINF:-1,WATCH LIVE: Latest News Headlines and Events | ABC News Live
+https://www.youtube.com/watch?v=w_Ma8oQLmSM
+#EXTINF:-1,ABC 7 News SWFL Live Stream
+https://www.youtube.com/watch?v=XObsOutMlh8
+#EXTINF:-1,Bloomberg Global Financial Market News LIVE
+https://www.youtube.com/watch?v=dp8PhLsUcFE
+#EXTINF:-1,Watch ABC News Australia live | ABC News
+https://www.youtube.com/watch?v=vOTiJkg1voo
+#EXTINF:-1,Euronews English Live
+https://www.youtube.com/watch?v=pykpO5kQJ98&pp=ygUObGl2ZSBuZXdzIGV1cm8=
+#EXTINF:-1,DW News livestream | Headline news from around the world
+https://www.youtube.com/watch?v=pqabxBKzZ6M&pp=ygUObGl2ZSBuZXdzIGV1cm8=
+#EXTINF:-1,Al Jazeera English | Live
+https://www.youtube.com/watch?v=gCNeDWCI0vo&pp=ygUVbGl2ZSBuZXdzIGFsIGphemVlcmEg
+#EXTINF:-1,NDTV 24x7 Live TV: Karnataka Assembly Election | Imran Khan | New Twitter CEO | Bilawal Bhutto
+https://www.youtube.com/watch?v=Nen3UXaWDDE&pp=ygUObGl2ZSBuZXdzIG5kdHY=
+#EXTINF:-1,LIVE: NBC News NOW
+https://www.youtube.com/watch?v=PbR5KwF7HcY&pp=ygUNbGl2ZSBuZXdzIG5iYw==
+#EXTINF:-1,Watch Sky News live
+https://www.youtube.com/watch?v=9Auq9mYxFEE&pp=ygUOYmxvb21iZXJnIGxpdmU=
+#EXTINF:-1,[CNA 24/7 LIVE] Breaking news, top stories and documentaries
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+#EXTINF:-1,JapaNews24 ～日本のニュースを24時間配信
+https://www.youtube.com/watch?v=coYw-eVU0Ks
+#EXTINF:-1,公視台語台網路直播(部分節目無版權) |  Tai-gi Live
+https://www.youtube.com/watch?v=6KlRR_DGhmI
+#EXTINF:-1,公共電視 13頻道 網路直播 PTS Live
+https://www.youtube.com/watch?v=4Uc00FPs27M
+#EXTINF:-1,三立iNEWS 24小時 新聞直播 ON AIR │SET iNEWS LIVE│SET iNEWS ニュースオンライン生放送
+https://www.youtube.com/watch?v=CKjSm5ZeehE
+#EXTINF:-1,三立新聞 24小時直播 LIVE 三立+｜SET+ 24hrs LIVE news│台湾 SET+ 24hrs ニュースオンライン放送│대만 채널 SET+ 뉴스 생방송 @setnews​
+https://www.youtube.com/watch?v=oZdzzvxTfUY&pp=ygUM5paw6IGe55u05pKt
+#EXTINF:-1,民視新聞 FTV 新聞直播｜Taiwan News Live｜台湾ニュース Live｜대만 뉴스 방송 Live @FTV_News
+https://www.youtube.com/watch?v=ylYJSBUgaMA&pp=ygUM5paw6IGe55u05pKt
+#EXTINF:-1,【看盤不中斷】EBC東森財經股市24小時直播｜Taiwan EBC Financial News 24hr Live｜台湾 EBC 金融ニュース24 時間オンライン放送｜대만 뉴스 생방송
+https://www.youtube.com/watch?v=LbS-xQ67fos
+#EXTINF:-1,EBC 東森財經新聞24小時線上直播｜Taiwan EBC Financial News｜台湾 EBC 金融ニュース｜대만 뉴스 생방송
+https://www.youtube.com/watch?v=WHEPzbFA3hw&pp=ygUM5paw6IGe55u05pKt
+#EXTINF:-1,����TVBS NEWS LIVE 網路獨家 新聞24小時直播| Taiwan News Live| 台湾TVBS NEWS世界中のニュースを24時間配信中| 대만24시간 뉴스 채널 55台 56台
+https://www.youtube.com/watch?v=m_dhMSvUCIc&pp=ygUM5paw6IGe55u05pKt
+#EXTINF:-1,台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브
+https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1,#LIVE: 華視新聞直播 CH52 | Taiwan CTS News | 台湾のニュースを24時間配信 | 대만 24시간 뉴스채널 | 24小時 線上看 LIVE新聞【On Air】
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1,鏡新聞 mnews 24小時 線上直播｜多元 專業 深度 國際 藝文 弱勢｜Taiwan Live News｜台湾のニュース24時間オンライン放送
+https://www.youtube.com/watch?v=5n0y6b0Q25o&pp=ygUJbW5ld3Mg6Y-h
+#EXTINF:-1,寰宇新聞台 24小時線上直播｜GlobalNewsTV 24h live news｜ 台湾のニュース24時間ライブ配信中 ｜대만 뉴스 생방송
+https://www.youtube.com/watch?v=B7Zp3d6xXWw
+#EXTINF:-1,中視新聞LIVE直播頻道24小時線上直播｜Taiwan CTV news HD 24h live news |台湾のCTV ニュースHD 대만 24시간 뉴스채널  | (生放送)
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1,UChannelTV 優視頻道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1,大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1,智林體育台
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+#EXTINF:-1,大愛一臺HD Live 臺灣直播 | 現正播映：2023佛誕祈福-佛恩親恩眾生恩-臺北LIVE
+https://www.youtube.com/watch?v=oV_i3Hsl_zg
+#EXTINF:-1,大愛一臺HD Live 全球直播 | 現正播映：2023佛誕祈福-佛恩親恩眾生恩-臺北LIVE
+https://www.youtube.com/watch?v=MIqUplvSRWA
+#EXTINF:-1,大愛二臺HD Live 全球直播  | 現正播映：2023佛誕祈福-佛恩親恩眾生恩-臺北LIVE
+https://www.youtube.com/watch?v=DTNkEm6jaqQ
+#EXTINF:-1,大愛tv1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1,大愛tv2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1,CNNi
+http://tunein11-ord.streamguys1.com:80/CNNi
+#EXTINF:-1,CRN 1 Personality Mix
 http://sc03.warpradio.com:8506/;stream.nsv
-#EXTINF:0,CRN 2
-http://player.warpradio.com/sc/CRN2-IN.m3u
-#EXTINF:0,CRN 3
-http://sc03.warpradio.com:8510/;stream.nsv
-#EXTINF:0,CRN 4
+#EXTINF:-1,CRN 2 Sports
+http://sc03.warpradio.com:8508
+#EXTINF:-1,CRN 3 The Patriot
+http://sc03.warpradio.com:8510
+#EXTINF:-1,CRN 4 Gen X Talk
 http://64.78.234.165:8020/CRN4
-#EXTINF:0,CRN 5
-http://sc03.warpradio.com:8514/;stream.nsv
-#EXTINF:0,VOA Voice of America News
+#EXTINF:-1,CRN 5 America's Talk
+http://sc03.warpradio.com:8514
+#EXTINF:-1,VOA Voice of America News
 http://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28
-#EXTINF:0,NPR Program Stream
-https://22113.live.streamtheworld.com/WUSFFM_ADP_SC
-#EXTINF:0,NPR Program Stream
+#EXTINF:-1,NPR Program Stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC_SC
-#EXTINF:0,BBC World Service
+#EXTINF:-1,BBC World Service
 http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-#EXTINF:0,BBC Radio 4
+#EXTINF:-1,BBC Radio 4
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm?
-#EXTINF:0,BBC Radio 4 LW
-http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_fourlw/format/pls.pls
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm?
-#EXTINF:0,BBC Radio 4 LW_Genre: Talk
-http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_fourlw/format/pls.pls
-#EXTINF:0,BBC Radio 4 Extra_Genre: Comedy
+#EXTINF:-1,BBC Radio 4 LW
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourlw_online_nonuk?s=1648806762&e=1648821162&h=6b0c990e7a30d414af5c181140bd5656
+#EXTINF:-1,BBC Radio 4 LW_Genre: Talk
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourlw_online_nonuk?s=1648806785&e=1648821185&h=d7fa0e412f9ed1f6da52f08bd6a485b7
+#EXTINF:-1,BBC Radio 4 Extra_Genre: Comedy
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra?
-http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_four_extra/format/pls.pls
-#EXTINF:0,BBC Radio 2_Genre: Various
-http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_two/format/pls.pls
-#EXTINF:0,BBC Radio 2_Genre: Various
+#EXTINF:-1,BBC Radio 2_Genre: Various
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two?s=1648806820&e=1648821220&h=69adfbf75b6de7dadc9ebedba0d30196
+#EXTINF:-1,BBC Radio 2_Genre: Various
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two?
-#EXTINF:0,100.7+ICRT
-https://icrt.leanstream.co/ICRTFM-MP3?args=web
-#EXTINF:0,100.7+ICRT
+#EXTINF:-1,BBC Radio 1
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
+#EXTINF:-1,BBC Radio 2
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
+#EXTINF:-1,BBC Radio 4 Extra
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
+#EXTINF:-1,BBC Radio 4
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
+#EXTINF:-1,BBC Radio 5
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
+#EXTINF:-1,BBC World Service
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
+#EXTINF:-1,LOVE 972
+https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1,CPR News
+https://stream2.cprnetwork.org:443/2198_256.aac/playlist.m3u8?listeningSessionID=624342521a9f62fb_239146_OtVPABA8_NjYuODUuODkuNjo4MA!!_00000003nZB&downloadSessionID=0
+#EXTINF:-1,HPM News
+http://stream.houstonpublicmedia.org/news-aac-256
+#EXTINF:-1,BBC World Service--kcrw
+http://kcrw.streamguys1.com/kcrw_192k_mp3_news
+#EXTINF:-1,n p r | KJZZ
+http://kjzz.streamguys1.com/kjzz_aac_high
+#EXTINF:-1,n p r | KPBS
+http://kpbs-wowza.streamguys1.com/live/smil:kpbs.smil/live/kpbs256kaac.stream/chunks.m3u8?nimblesessionid=487655
+#EXTINF:-1,n p r | KQED
+http://hls.kqed.org:80/kqed/256/playlist.m3u8?listeningSessionID=61c3393b5265f3da_8630196_mnAHXgq1_NzUuMTAyLjUuOTk6ODA!_0000001tKqD&downloadSessionID=0
+#EXTINF:-1,n p r | KUT
+http://kut-hls.streamguys1.com:80/kut1/256/playlist.m3u8?listeningSessionID=61fa153616152671_5034946_cXKa0Y3x_NTAuMzEuMTU1LjIwMw!!_0000000eRdv&downloadSessionID=0
+#EXTINF:-1,n p r | WAMU
+http://hls-1.wamu.org:80/itunes256/playlist.m3u8?listeningSessionID=5ef42b37d07d099a_55754220_tbm3KyHu__00000005CVV&downloadSessionID=0
+#EXTINF:-1,The New Yorker Radio Hour - St. Louis Public Radio
+http://kwmu-flash.streamguys1.com/live/smil:kwmu1.smil/live/kwmu1-256k.stream/chunks.m3u8?nimblesessionid=321227
+#EXTINF:-1,Francis Lam - The Splendid Table
+http://nis.stream.publicradio.org/nis.mp3
+#EXTINF:-1,NHPR
+http://205.234.238.46/nhpr-256-source.aac
+#EXTINF:-1,Wbez Linear ORD aac PS2
+http://stream.wbez.org/wbezlinear
+#EXTINF:-1,NPR News-90.9 WBUR FM Boston
+http://wowza-stream.wbur.org/hls/smil:wbur.smil/hls/wbur256/chunks.m3u8?nimblesessionid=1059233
+#EXTINF:-1,NPR WOSU 256
+http://wosu.streamguys1.com/NPR_256
+#EXTINF:-1,89.7FM WUWM Milwaukee Public Radio
+http://wuwm.streamguys1.com/live
+#EXTINF:-1,My FM廣東話
+https://astro1.rastream.com/myfm
+#EXTINF:-1,The People's Pharmacy - WUNC-ST
+http://216.246.39.189/wunc-source
+#EXTINF:-1,北京外语广播
+http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
+#EXTINF:-1,格莱美音乐台
+http://stream3.hndt.com/now/yorSd1X2/chunklist.m3u8
+#EXTINF:-1,100.7+ICRT
 http://live.leanstream.co/ICRTFM-MP3?
-#EXTINF:0,104.1 https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
-#EXTINF:0,104.9 http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
-#EXTINF:0,102.5 https://www.tr-radio.com/station/tr-radio/?play=1&m3u8=1
-#EXTINF:0,102.5 https://live.tr-radio.com/live/live/playlist.m3u8
-#EXTINF:0,97.5 https://stream.rcs.revma.com/7mnq8rt7k5zuv
-#EXTINF:0,http://140.136.115.115:8000/fjuvoice885.mp3
-#EXTINF:0,97. 7 Classical http://59.120.88.155:8000/live.mp3
-#EXTINF:0,http://players.creacast.com/creacast/classique/playlist.m3u
-#EXTINF:0,http://playerservices.streamtheworld.com/pls/CLASSICFMAAC.pls
-#EXTINF:0,http://playerservices.streamtheworld.com/pls/CLASSICFM.pls
-#EXTINF:0,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:0,https://www.youtube.com/watch?v=ylYJSBUgaMA&pp=ygUM5paw6IGe55u05pKt
-#EXTINF:0,https://www.youtube.com/watch?v=CKjSm5ZeehE
-#EXTINF:0,https://www.youtube.com/watch?v=oZdzzvxTfUY&pp=ygUM5paw6IGe55u05pKt
-#EXTINF:0,https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:0,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:0,https://www.youtube.com/watch?v=LbS-xQ67fos
-#EXTINF:0,https://www.youtube.com/watch?v=khuZW5GdBXo&pp=ygUM5paw6IGe55u05pKt
-#EXTINF:0,https://www.youtube.com/watch?v=WHEPzbFA3hw&pp=ygUM5paw6IGe55u05pKt
-#EXTINF:0,https://www.youtube.com/watch?v=5n0y6b0Q25o&pp=ygUJbW5ld3Mg6Y-h
-#EXTINF:0,https://www.youtube.com/watch?v=B7Zp3d6xXWw
-#EXTINF:0,TVBShttps://www.youtube.com/watch?v=m_dhMSvUCIc&pp=ygUM5paw6IGe55u05pKt
-#EXTINF:0,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:0,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-#EXTINF:0,https://www.youtube.com/watch?v=6KlRR_DGhmI
-#EXTINF:0,https://www.youtube.com/watch?v=4Uc00FPs27M
-#EXTINF:0,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:0,https://www.youtube.com/watch?v=ylYJSBUgaMA&pp=ygUM5paw6IGe55u05pKt
-#EXTINF:0,https://www.youtube.com/watch?v=CKjSm5ZeehE
-#EXTINF:0,https://www.youtube.com/watch?v=oZdzzvxTfUY&pp=ygUM5paw6IGe55u05pKt
-#EXTINF:0,https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:0,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:0,https://www.youtube.com/watch?v=LbS-xQ67fos
-#EXTINF:0,https://www.youtube.com/watch?v=khuZW5GdBXo&pp=ygUM5paw6IGe55u05pKt
-#EXTINF:0,https://www.youtube.com/watch?v=WHEPzbFA3hw&pp=ygUM5paw6IGe55u05pKt
-#EXTINF:0,https://www.youtube.com/watch?v=5n0y6b0Q25o&pp=ygUJbW5ld3Mg6Y-h
-#EXTINF:0,https://www.youtube.com/watch?v=B7Zp3d6xXWw
-#EXTINF:0,TVBShttps://www.youtube.com/watch?v=m_dhMSvUCIc&pp=ygUM5paw6IGe55u05pKt
-#EXTINF:0,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:0,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-#EXTINF:0,https://www.youtube.com/watch?v=6KlRR_DGhmI
-#EXTINF:0,https://www.youtube.com/watch?v=4Uc00FPs27M
+#EXTINF:-1,104.1 正聲
+https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w356442033.m3u8
+#EXTINF:-1,104.9 警廣
+http://stream.pbs.gov.tw:1935/live/mp3:PBS/chunklist_w890589916.m3u8
+#EXTINF:-1,102.5 幸福電台
+https://www.tr-radio.com/station/tr-radio/chunklist_w1333777684.m3u8
+#EXTINF:-1,97.5 竹科廣播
+https://stream.rcs.revma.com/7mnq8rt7k5zuv
+#EXTINF:-1,102.5 幸福電台
+https://live.tr-radio.com/live/live/chunklist_w230395342.m3u8
+#EXTINF:-1,88.5輔大之聲
+http://140.136.115.115:8000/fjuvoice885.mp3
+#EXTINF:-1,97. 7 Classical 古典音樂台
+http://59.120.88.155:8000/live.mp3
+#EXTINF:-1,Swiss Classic
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1,法國古典音樂Radio Classique (live)
+http://str0.creacast.com/classique1
+#EXTINF:-1,荷蘭愛樂CLASSICFM
+http://playerservices.streamtheworld.com/pls/CLASSICFMAAC.pls
+#EXTINF:-1,Charlie Puth - How Long new pop hits premium
+http://rfcmedia.streamguys1.com/newpophitspremium.mp3
+#EXTINF:-1,One FM media prima - one fm
+https://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:-1,RTI国语
+https://www.soundvideostar.com/live/_definst_/rti3/chunklist_w1356611254.m3u8
+#EXTINF:-1,RTI音乐
+https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
+#EXTINF:-1,Today’s Hits Music Pulse Premium
+http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
+#EXTINF:-1,UFM_1003
+https://22283.live.streamtheworld.com/UFM_1003AAC.aac
+#EXTINF:-1,YES933_PREM
+https://22393.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1,Charly Antolini & Danny Moss - Alone Together
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1,CAPITAL958
+https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+#EXTINF:-1,Heart FM 乐动1056 shenyangjingdianyinle
+http://starfish.bj.aliyun.006.qingting.fm:8000/shenyangjingdianyinle
+#EXTINF:-1,CNA 938 NOW_PREM
+https://14033.live.streamtheworld.com/938NOW_PREM.aac
+#EXTINF:-1,Coffee House premium
+http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
+#EXTINF:-1,CityFM|城市广播 929
+http://fm929.cityfm.tw:8080/929.mp3
+#EXTINF:-1,CityFM|大苗栗广播 983
+http://fm983.cityfm.tw:8080/983.mp3
+#EXTINF:-1,CityFM|台北健康 901
+http://fm901.cityfm.tw:8080/901.mp3
+#EXTINF:-1,CityFM|台南之音 971
+http://fm971.cityfm.tw:8080/971.mp3
+#EXTINF:-1,日本CRI Easy FM – FM91.5
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1,CRI Hit FM FM88.7 (Opt-1) 887
+http://sk.cri.cn/887.m3u8
+#EXTINF:-1,CRI Hit FM FM88.7 64
+http://live.xmcdn.com/live/75/64.m3u8
+#EXTINF:-1,CRI NEWS Plus AM1008 (Opt-2) am1008
+http://sk.cri.cn/am1008.m3u8
+#EXTINF:-1,CRI NEWS Plus AM846 4584
+http://ls.qingting.fm/live/4584.m3u8
+#EXTINF:-1,CRI NEWS Plus AM846 am846
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1,CRI 海峡飞虹 1734855
+http://ls.qingting.fm/live/1734855.m3u8
+#EXTINF:-1,CRI 环球资讯广播 FM90.5 (Opt-2) 905
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1,CRI 环球资讯广播 FM90.5 64
+http://live.xmcdn.com/live/1040/64.m3u8
+#EXTINF:-1,CRI 环球资讯广播 FM90.5
+http://ls.qingting.fm/live/24035.m3u8
+#EXTINF:-1,CRI 南海之声 (Opt-2)
+http://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1,CRI 南海之声
+http://live.xmcdn.com/live/1054/64.m3u8
+#EXTINF:-1,CRI 南海之声
+http://ls.qingting.fm/live/62624.m3u8
+#EXTINF:-1,CRI 轻松调频 FM91.5
+http://live.xmcdn.com/live/1042/64.m3u8
+#EXTINF:-1,CRI 轻松调频 FM91.5
+http://ls.qingting.fm/live/1006.m3u8
+#EXTINF:-1,CRI 中文环球广播 (Opt-2)
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1,CRI 中文环球广播
+http://ls.qingting.fm/live/4995.m3u8
+#EXTINF:-1,TD Ameritrade 404
+https://tdameritrade-vizio.amagi.tv/playlistR404p.m3u8
+#EXTINF:-1,TD Ameritrade 720
+https://tdameritrade-vizio.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1,TD Ameritrade 404
+https://tdameritrade-distro.amagi.tv/playlistR404p.m3u8
+#EXTINF:-1,TD Ameritrade 720
+https://tdameritrade-distro.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1,Cheddar切达540
+https://stream-us-east-1.getpublica.com/cl/20f04950-89db-48f2-be31-a1fe81880155/960x540_2276268_0_false.m3u8
+#EXTINF:-1,Cheddar切达720
+https://stream-us-east-1.getpublica.com/cl/20f04950-89db-48f2-be31-a1fe81880155/1280x720_3297996_2_false.m3u8
+#EXTINF:-1,Cheddar切达540
+https://stream-us-east-1.getpublica.com/cl/f024940c-f659-41fe-91ff-55586f8ab09f/960x540_2276268_0_false.m3u8
+#EXTINF:-1,Cheddar切达720
+https://stream-us-east-1.getpublica.com/cl/f024940c-f659-41fe-91ff-55586f8ab09f/1280x720_3297996_2_false.m3u8
+#EXTINF:-1,Cheddar切达540
+https://stream-us-east-1.getpublica.com/cl/4dfca349-0847-4526-bda1-a51a0b77eb2c/960x540_2276268_0_false.m3u8
+#EXTINF:-1,Cheddar切达720
+https://stream-us-east-1.getpublica.com/cl/4dfca349-0847-4526-bda1-a51a0b77eb2c/1280x720_3297996_2_false.m3u8
+#EXTINF:-1,Yahoo! Finance 404
+https://yahoofinance-localnow.amagi.tv/playlist404pl.m3u8
+#EXTINF:-1,Yahoo! Finance 720
+https://yahoofinance-localnow.amagi.tv/playlist720lpl.m3u8
+#EXTINF:-1,伊朗 Press TV English 480
+https://live.presstv.ir/liveprs/smil:liveprs/chunklist_w1508425477_b644100_slen.m3u8
+#EXTINF:-1,CRI 中文环球广播
+http://live.xmcdn.com/live/1043/64.m3u8
+#EXTINF:-1,伊朗 Press TV English 720
+https://live.presstv.ir/liveprs/smil:liveprs/chunklist_w1508425477_b944100_slen.m3u8
+#EXTINF:-1,乌克兰  M2 音乐频道540
+http://live.m2.tv/hls3/540/stream.m3u8
+#EXTINF:-1,乌克兰  M2 音乐频道720
+http://live.m2.tv/hls3/720/stream.m3u8
+#EXTINF:-1,俄罗斯 FM 音乐频道
+http://rtmp.one.by:1200
+#EXTINF:-1,俄罗斯 OR 音乐频道
+http://rtmp.one.by:2200/
